@@ -1,0 +1,7 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "scripts": {},
+  "keywords": ["gulp", "js", "sass", "pug", "linters"],
+  "license": "WTFPL"
+}
